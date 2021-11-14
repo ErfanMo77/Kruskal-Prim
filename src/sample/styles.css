@@ -1,0 +1,19 @@
+#pane{
+    -fx-background-color: linear-gradient(to right , rgb(222, 255, 152), rgb(255, 126, 163));
+}
+
+#button:hover{
+    -fx-background-color: rgb(255, 107, 132);
+}
+#button:filled{
+    -fx-background-color: GREEN;
+}
+
+#button {
+    -fx-text-fill: rgb(255, 234, 167);
+    -fx-font-family: "B Farnaz";
+    -fx-font-weight: BOLD;
+    -fx-padding: 5px 25px;
+    -fx-max-width: 150px;
+    -fx-background-color: linear-gradient(to right ,royalblue, rgb(0, 91, 80));
+}
